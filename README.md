@@ -1,2 +1,3 @@
 # mergesf
-Merge struct fields
+
+Merge Struct Fields.
